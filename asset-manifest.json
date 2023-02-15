@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/PasswordTest/static/css/main.e37e0ef6.css",
+    "main.js": "/PasswordTest/static/js/main.7a3f40df.js",
+    "static/js/787.34459de9.chunk.js": "/PasswordTest/static/js/787.34459de9.chunk.js",
+    "static/media/eye-blocked.svg": "/PasswordTest/static/media/eye-blocked.89ab20b4b5fdc99023c7de58eca74c6f.svg",
+    "index.html": "/PasswordTest/index.html",
+    "static/media/eye.svg": "/PasswordTest/static/media/eye.10f8189ba0f0107f0a7522d74f55240d.svg",
+    "main.e37e0ef6.css.map": "/PasswordTest/static/css/main.e37e0ef6.css.map",
+    "main.7a3f40df.js.map": "/PasswordTest/static/js/main.7a3f40df.js.map",
+    "787.34459de9.chunk.js.map": "/PasswordTest/static/js/787.34459de9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e37e0ef6.css",
+    "static/js/main.7a3f40df.js"
+  ]
+}
