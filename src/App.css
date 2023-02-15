@@ -1,0 +1,20 @@
+.App {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+	width: 100%;
+	min-height: 100vh;
+	background: #001f25;
+	padding-top: 50px;
+}
+
+.Container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 1024px;
+	max-height: 600px;
+	margin-bottom: 50px;
+}

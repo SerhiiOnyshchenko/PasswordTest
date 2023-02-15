@@ -1,0 +1,65 @@
+.box {
+	position: relative;
+	width: 300px;
+}
+
+.inputBox {
+	position: relative;
+	display: block;
+	width: 100%;
+	background: #fff;
+	padding: 5px;
+	border-radius: 8px;
+	box-shadow: 0 15px 25px rgba(0, 0, 0, 0.15);
+}
+
+.password {
+	position: relative;
+	width: 100%;
+	padding: 10px 5px;
+	font-size: inherit;
+	font-weight: 700;
+}
+
+.toggle {
+	position: absolute;
+	top: 8px;
+	right: 10px;
+	width: 34px;
+	height: 34px;
+	background-color: rgba(0, 0, 0, 0.05);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 24px 24px;
+	border-radius: 50%;
+	cursor: pointer;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.validation {
+	position: relative;
+	background: grey;
+	height: 20px;
+	margin-top: 20px;
+	border-radius: 8px;
+	box-shadow: 0 15px 25px rgba(0, 0, 0, 0.15);
+}
+.section {
+	position: absolute;
+	display: block;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	width: 0;
+	background-color: red;
+	border-radius: 8px;
+	box-shadow: 0 15px 25px rgba(0, 0, 0, 0.15);
+	z-index: 2;
+	transition: all 0.3s linear;
+}
+.text {
+	margin-top: 10px;
+	text-align: center;
+	color: white;
+}
